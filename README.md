@@ -26,8 +26,12 @@ This is my first project developed in Python. The goal of this project was to ap
 3. **Run the application:**
 `python todo_list.py`
 
-## Key learning.
+## Key learning
+
 **Building this project was super fun and a major milestone in my coding journey. Here is what I learned:**
--**Modularization:** I learned to divide my project into smaller blocks called 'def' functions. This new function I learned definitely expanded my knowlegde about organizing my program. Its really very useful, because it helped me break down my process into clearer steps.
--**Logic Flow:** I also learned about how important it is to predict scenarios. A good system doesn't bindly trust that everything will work out. I learned new concepts about how to deal with unforeseen events and errors. I realized how important it is to know mechanisms to prevent the program from crashing when something goes off script.
--**error Handling:** And something really cool was the use of dictionaries to help the program remember what's happening at any given moment, allowing it run smoothly.
+
+- **Modularization:** I learned to divide my project into smaller blocks called 'def' functions. This new function I learned definitely expanded my knowlegde about organizing my program. Its really very useful, because it helped me break down my process into clearer steps.
+
+- **Logic Flow:** I also learned about how important it is to predict scenarios. A good system doesn't bindly trust that everything will work out. I learned new concepts about how to deal with unforeseen events and errors. I realized how important it is to know mechanisms to prevent the program from crashing when something goes off script.
+
+- **error Handling:** And something really cool was the use of dictionaries to help the program remember what's happening at any given moment, allowing it run smoothly.
