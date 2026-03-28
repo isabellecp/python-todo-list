@@ -24,7 +24,7 @@ This is my first project developed in Python. The goal of this project was to ap
 2. **Navigate to the folder:**
 `cd python-todo-list`
 3. **Run the application:**
-`python todo_list_app in python.py`
+`python todo_list.py`
 
 ## Key learning.
 **Building this project was super fun and a major milestone in my coding journey. Here is what I learned:**
