@@ -3,12 +3,12 @@ A simple to-do list app developed in Python for practicing logic and data manipu
 
 # To-do list app in Python
 
-This is my first project developed in Python. The goal of this project was to apply and learn new fundamental programming concepts in somethings simples but useful.
+This is my first project developed in Python. The goal of this project was to apply and learn new fundamental programming concepts in something simples but useful.
 
 ## Key Features
 - **Add new tasks**: Create new tasks.
 - **View tasks**: List all tasks with visual indicators.
-- **Mark tasks as completed**: Updatde the status of a specific task to be completed.
+- **Mark tasks as completed**: Update the status of a specific task to be completed.
 - **Delete tasks**: Remove unwanted items from the list.
 - **Error handling**: Built-in validation to prevent the app from crashing due to invalid user inputs.
 
